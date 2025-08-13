@@ -15,3 +15,7 @@ Estudante de Analista de Dados na EBAC | Experiência em Python, PySpark e SQL |
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CMichelin07repo=Tratamentos_Dados_e_BIG-DATA&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CMichelin07repo=Manipulacao-de-Dados-com-SQL&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Linguagens Utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CMichelin07&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
