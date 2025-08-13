@@ -15,12 +15,15 @@ Estudante de Analista de Dados na EBAC | Experiência em Python, PySpark e SQL |
 ### Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CMichelin07&repo=Projeto_Evasao_Escolar-Parceria_Semantix-EBAC&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 **Análise de evasão escolar usando dados do Censo e SAEB.**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CMichelin07&repo=Tratamentos_Dados_e_BIG-DATA&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 **Tratamento e análise de dados em Python e PySpark.**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CMichelin07&repo=Manipulacao-de-Dados-com-SQL&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 **Manipulação de dados fictícios usando SQL.**
 
 ### Linguagens Utilizadas
