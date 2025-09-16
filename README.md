@@ -16,7 +16,7 @@ Estudante de Analista de Dados na EBAC | Experiência em Python, PySpark e SQL |
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CMichelin07&repo=Projeto_Dados_Futebol_Europeu_2008-2016_EBAC&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-**Projeto com dados do Futebol Europeu Temporadas 2008 à 2016
+**Projeto com dados do Futebol Europeu Temporadas 2008 à 2016.**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CMichelin07&repo=Projeto_Evasao_Escolar-Parceria_Semantix-EBAC&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
